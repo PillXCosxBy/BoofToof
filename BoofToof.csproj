@@ -59,7 +59,7 @@
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
-    </ApplicationDefinition Include="App.xaml" />
+    </ApplicationDefinition>
     <Compile Include="Services\BluetoothService.cs" />
     <Compile Include="ViewModels\MainViewmodel.cs" />
     <Page Include="MainWindow.xaml">
